@@ -1,5 +1,6 @@
 ## Frequently asked questions about SolrNet
 #testing file
+#verifyin for stash
 
 #### Is SolrNet a .NET port of Solr?
 
