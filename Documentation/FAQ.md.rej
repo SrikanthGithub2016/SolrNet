@@ -1,0 +1,9 @@
+diff a/Documentation/FAQ.md b/Documentation/FAQ.md	(rejected hunks)
+@@ -1,6 +1,7 @@
+ ## Frequently asked questions about SolrNet
+ #testing file
+ #verifyin for stash
++#Document testing file
+ 
+ #### Is SolrNet a .NET port of Solr?
+ 
